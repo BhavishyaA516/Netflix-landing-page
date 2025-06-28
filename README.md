@@ -12,5 +12,13 @@ Watch anywhere, anytime. Sign in with your Netflix account to watch instantly on
 You can also download your favourite shows with the iOS or Android app. Use downloads to watch while you're on the go and without an internet connection. Take Netflix with you anywhere.
 
 ## Application Output
+
+**Output-1**
+
 ![output-1](https://github.com/user-attachments/assets/f0f05fa7-8615-42c2-a7f5-314cc277b655)
+
+**Output-2**
+
+![output-2](https://github.com/user-attachments/assets/7d2fa740-1cc9-401e-a8ea-2084f61fb5a5)
+
 
